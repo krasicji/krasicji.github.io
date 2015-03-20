@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/edu.rosehulman.chatapp_1.0.0.201503192242.jar" id="edu.rosehulman.chatapp" version="1.0.0.201503192242">
+   <feature url="features/edu.rosehulman.chatapp_1.0.0.201503192249.jar" id="edu.rosehulman.chatapp" version="1.0.0.201503192249">
       <category name="Rose-Hulman Multi-Cast Application"/>
    </feature>
    <category-def name="Rose-Hulman Multi-Cast Application" label="Rose-Hulman Multi-Cast Application">
